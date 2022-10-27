@@ -1,0 +1,22 @@
+{
+  "name": "api-filmes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacgeazy/api-filmes.git"
+  },
+  "author": "Isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaacgeazy/api-filmes/issues"
+  },
+  "homepage": "https://github.com/isaacgeazy/api-filmes#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
