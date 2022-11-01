@@ -1,0 +1,11 @@
+    #conteudo{
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        
+    }
+    #conteudo li {
+        list-style-type: none;
+    }
+
+
